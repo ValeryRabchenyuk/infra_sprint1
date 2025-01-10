@@ -1,0 +1,5 @@
+IP:89.169.162.121;
+name_taski: https://yataski.hopto.org;
+name_kittygram: https://yakitty.hopto.org;
+login: admin;
+password: admin;
